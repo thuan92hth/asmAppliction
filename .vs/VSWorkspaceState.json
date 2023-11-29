@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\controller",
+    "\\src\\app\\models",
+    "\\src\\resources",
+    "\\src\\resources\\views",
+    "\\src\\resources\\views\\courses",
+    "\\src\\resources\\views\\employee",
+    "\\src\\resources\\views\\layouts"
+  ],
+  "SelectedNode": "\\src\\util\\mongoose.js",
+  "PreviewInSolutionExplorer": false
+}
