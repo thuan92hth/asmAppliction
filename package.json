@@ -12,7 +12,7 @@
   "devDependencies": {
     "morgan": "^1.10.0",
     "nodemon": "^2.0.20",
-    "sass": "^1.56.1"
+    "sass": "^1.69.5"
   },
   "dependencies": {
     "cookie-parser": "^1.4.6",
@@ -31,4 +31,7 @@
     "NodeJS"
   ],
   "description": ""
+  
 }
+
+

@@ -10,12 +10,6 @@ class SiteController{
        
     }
 
-    search (req, res, next){
-        
-    }
-
-    create(req, res, next){
-        
-    }
+    
 }
 module.exports = new SiteController;
